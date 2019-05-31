@@ -1,0 +1,1 @@
+%windir%\system32\msiexec.exe /i "%CD%\python-2.7.16.msi" /qn /norestart
